@@ -7,7 +7,8 @@
 - To develop familiarity with the mechanical assembly of a professional microwave test bench.
 
 ---
-
+<img src="./images/waveguide%20part%201.jpg" width="600" alt="Waveguide Part 1">
+<img src="./images/waveguide%20part%201.jpg" width="600" alt="Waveguide Part 1">
 ## Materials / Components
 
 ### Active & Control Modules

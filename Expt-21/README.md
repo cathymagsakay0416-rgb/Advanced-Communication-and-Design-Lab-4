@@ -18,11 +18,11 @@
 
 - **Transmitting Mast** – A vertical support structure that holds the test antenna and allows for 360° rotation to plot radiation patterns.
 
-  <img src="./images/TRANSMITTING MAST.jpg" width="400" alt="Antenna Trainer Setup">
+<img src="./images/TRANSMITTING MAST.jpg" width="400" alt="Antenna Trainer Setup">
   
 - **Receiving Mast** – A stationary support used to hold the detector or receiving antenna at a fixed distance from the transmitter.
 
-    <img src="./images/Receiving Mast.jpg" width="400" alt="Antenna Trainer Setup">
+<img src="./images/Receiving Mast.jpg" width="400" alt="Antenna Trainer Setup">
     
 - **RF Detector** – A device that rectifies the received RF signal into a DC voltage or current, allowing the signal strength to be read on a meter.
 
@@ -114,6 +114,8 @@
 2. **Connection** – Connect the **Antenna Trainer** RF output to the **Matching Stub**, then to the **Transmitting Mast**.
 3. **Reception** – Attach the **Detector Antenna** to the **RF Detector** on the receiving mast.
 4. **Polarization** – Ensure both masts are oriented for vertical polarization for the initial tests.
+
+<img src="./images/SETUP.jpg" width="300" alt="Detector Antenna">
 
 ---
 

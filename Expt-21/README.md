@@ -93,11 +93,12 @@
 <img src="./images/SLOT ANTENNA.jpg" width="300" alt="Slot Antenna">
 
 21. **Helix Antenna** – A wire wound in a corkscrew shape; when operated in axial mode, it produces circular polarization.
-<img src="./images/detector antenna.jpg" width="300" alt="Detector Antenna">
+
+<img src="./images/helix.jpg" width="300" alt="Helix Antenna">
 
 
 22. **Detector Antenna** – A small probe antenna designed to be mounted on the receiving mast to pick up RF energy for the detector unit.
-<img src="./images/helix.jpg" width="300" alt="Helix Antenna">
+<img src="./images/detector antenna.jpg" width="300" alt="Detector Antenna">
 ---
 
 ## System Setup

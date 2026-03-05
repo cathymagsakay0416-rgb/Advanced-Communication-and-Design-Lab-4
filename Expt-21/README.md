@@ -17,14 +17,20 @@
 <img src="./images/ANTENNA TRAINER.jpg" width="400" alt="Antenna Trainer Setup">
 
 - **Transmitting Mast** – A vertical support structure that holds the test antenna and allows for 360° rotation to plot radiation patterns.
+
+  <img src="./images/TRANSMITTING MAST.jpg" width="400" alt="Antenna Trainer Setup">
+  
 - **Receiving Mast** – A stationary support used to hold the detector or receiving antenna at a fixed distance from the transmitter.
+
+    <img src="./images/Receiving Mast.jpg" width="400" alt="Antenna Trainer Setup">
+    
 - **RF Detector** – A device that rectifies the received RF signal into a DC voltage or current, allowing the signal strength to be read on a meter.
 
 <img src="./images/RF Detector.jpg" width="400" alt="RF Detector">
 
 - **Matching Stub** – A tunable transmission line component used to match the antenna’s complex impedance to the transmitter's 50Ω or 75Ω output, minimizing reflections.
 
-<img src="./images/MATCHING STUb.jpg" width="400" alt="Matching Stub">
+<img src="./images/MATCHING STub.jpg" width="400" alt="Matching Stub">
 
 ### Antenna Elements
 

@@ -102,3 +102,6 @@ Additionally, controlling signal power using the variable attenuator was essenti
 This experiment provided insight into the practical implementation of microwave communication systems. Unlike conventional circuits where signals travel through wires, microwave signals propagate through hollow metallic waveguides that act as transmission paths for electromagnetic energy.
 
 The activity emphasized that at microwave frequencies, mechanical precision becomes equally important as electrical design. Proper alignment, secure waveguide connections, and careful power control are essential for accurate measurements and reliable system performance.
+
+
+ **Previous:** [Experiment 21 – Antenna Trainer Kit](../Expt-21)  

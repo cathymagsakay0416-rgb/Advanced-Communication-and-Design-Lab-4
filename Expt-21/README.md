@@ -23,6 +23,7 @@
 <img src="./images/RF Detector.jpg" width="400" alt="RF Detector">
 
 - **Matching Stub** – A tunable transmission line component used to match the antenna’s complex impedance to the transmitter's 50Ω or 75Ω output, minimizing reflections.
+
 <img src="./images/MATCHING STUb.jpg" width="400" alt="Matching Stub">
 
 ### Antenna Elements
